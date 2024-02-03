@@ -30,7 +30,7 @@ First clone the repository using the git clone command : <br>
 <img width="479" alt="image" src="https://github.com/sameemqureshi/Answerly-Chat-Bot/assets/100606327/d3e43ad2-1cf2-4b37-973f-03690e5c5f85">
 
 Get your Open Api Key from the Open AI Website after Login:  https://platform.openai.com/api-keys
-Create and Copy the API Key and savt that in an .env file with the variable name "OPEN_API_KEY" in the same Directory.
+Create and Copy the API Key and save that in an .env file with the variable name "OPEN_API_KEY" in the same Directory.
 
 Once these steps are completed and all the requirements are satisfied, Run the app.py file using the command:
  streamlit run app.py
